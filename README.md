@@ -15,6 +15,7 @@ All my dotfiles that I use day to day. To use this repository:
     ```ln -s ~/bin/dotfiles/nvim ~/.config/nvim```
 
 4. Load tmux config
+
 		```ln -s ~/bin/dotfiles/tmux/tmux.conf ~/.tmux.conf```
 
 5. Load SSH settings 
