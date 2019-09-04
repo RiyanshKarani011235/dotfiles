@@ -20,5 +20,7 @@ All my dotfiles that I use day to day. To use this repository:
 
 5. Load SSH settings 
 
+		```
     mkdir -p ~/.ssh
     ln -sf ~/bin/dotfiles/ssh/config ~/.ssh/config
+		```
