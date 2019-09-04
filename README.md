@@ -18,9 +18,7 @@ All my dotfiles that I use day to day. To use this repository:
 
 		ln -s ~/bin/dotfiles/tmux/tmux.conf ~/.tmux.conf
 
-5. Load SSH settings 
+5. Load SSH settings
 
-		```
-    mkdir -p ~/.ssh
-    ln -sf ~/bin/dotfiles/ssh/config ~/.ssh/config
-		```
+		mkdir -p ~/.ssh
+		ln -sf ~/bin/dotfiles/ssh/config ~/.ssh/config
