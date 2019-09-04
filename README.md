@@ -6,7 +6,7 @@ All my dotfiles that I use day to day. To use this repository:
 
     ```git clone https://github.com/<YOUR_GITHUB_USERNAME>/dotfiles.git ~/bin```
 
-2. Load zshrc
+2. Load environment variables, shell settings and aliases
     
     ```ln -sf ~/bin/dotfiles/zshrc ~/.zshrc```
 
