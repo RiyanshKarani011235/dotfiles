@@ -1,0 +1,3 @@
+. ~/bin/dotfiles/zsh/env 			# environment variables used by other scripts
+. ~/bin/dotfiles/zsh/config		# zsh config
+. ~/bin/dotfiles/zsh/aliases	# aliases
