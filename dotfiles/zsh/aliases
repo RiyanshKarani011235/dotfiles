@@ -1,3 +1,13 @@
+# useful workspace locations
+alias cd_work='cd ~/Documents/workspace/git/clutter'
+alias cd_dotfiles='cd ~/bin/dotfiles'
+
+# TODO(riyanshkarani011235) use tmux-resurrect and vim-obsession
+# to save and restore tmux sessions, and then make one for work.
+alias work='cd_work'
+
+# command to prettify all the files in a npm project
+# on the current branch, that have been modified wrt
+# master.
 alias prettify_diff='~/bin/dotfiles/scripts/prettify_diff.py'
-alias work='cd ~/Documents/workspace/git/clutter'
-alias dotfiles='cd ~/bin/dotfiles'
+
