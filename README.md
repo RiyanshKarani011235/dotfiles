@@ -9,6 +9,10 @@ All my dotfiles that I use day to day. To use this repository:
 2. Load environment variables, shell settings and aliases
     
     ```ln -sf ~/bin/dotfiles/zshrc ~/.zshrc```
+    
+3. Load neovim config (assuming neovim has been setup correctly)
+
+    ```ln -s ~/bin/dotfiles/nvim ~/.config/nvim```
 
 3. Load SSH settings 
 
