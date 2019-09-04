@@ -1,1 +1,3 @@
 alias prettify_diff='~/bin/dotfiles/scripts/prettify_diff.py'
+alias work='cd ~/Documents/workspace/git/clutter'
+alias dotfiles='cd ~/bin/dotfiles'
