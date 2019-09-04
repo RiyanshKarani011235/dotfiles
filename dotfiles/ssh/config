@@ -1,0 +1,11 @@
+# Personal Account
+Host riyanshkarani011235.github.com
+	HostName github.com
+	User git
+	IdentityFile ~/bin/dotfiles/ssh/id_rsa_riyanshkarani011235
+
+# Work Account
+Host riyanshk.github.com
+	HostName github.com
+	User git
+	IdentityFile ~/bin/dotfiles/ssh/id_rsa_riyanshk
